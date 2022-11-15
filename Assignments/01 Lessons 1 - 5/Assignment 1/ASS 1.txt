@@ -1,5 +1,0 @@
-Assignment 1:
-
-1)ما الذي ترمز إليه كلمة HTML
-A) Hypertext Markup Language
-
